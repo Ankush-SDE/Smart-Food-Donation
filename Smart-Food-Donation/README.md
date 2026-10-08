@@ -1,7 +1,7 @@
 # Smart Food Donation Platform (SFD)
 > **Full Stack MERN Web Application — Capstone Project**  
 > *Connecting Surplus Food Donors with Verified NGOs via AI Demand Forecasting and Real-Time Logistics Tracking.*
-
+https://smart-food-donation-tau.vercel.app
 ---
 
 ## 🌟 Key Features
